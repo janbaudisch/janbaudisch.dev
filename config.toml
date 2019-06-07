@@ -19,6 +19,7 @@ theme = "sam"
 sam_menu = [
     { text = "posts", link = "/posts" },
     { text = "whoami", link = "/about" },
+    { text = "projects", link = "/projects" },
     { text = "github", link = "https://github.com/flyingP0tat0" },
     { text = "contact", link = "/contact" }
 ]
