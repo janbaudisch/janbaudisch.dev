@@ -24,3 +24,6 @@ sam_menu = [
 ]
 
 sam_bottom_menu = true
+
+[extra.sam_footer]
+text = ""
