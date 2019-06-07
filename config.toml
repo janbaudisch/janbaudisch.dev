@@ -1,0 +1,24 @@
+base_url = "https://flyingp0tat0.xyz"
+title = "Jan Baudisch"
+
+compile_sass = false
+
+highlight_code = true
+
+build_search_index = false
+
+taxonomies = [
+    {name = "tags", rss = true}
+]
+
+theme = "sam"
+
+[extra]
+sam_menu = [
+    { text = "posts", link = "/posts" },
+    { text = "whoami", link = "/about" },
+    { text = "github", link = "https://github.com/flyingP0tat0" },
+    { text = "contact", link = "/contact" }
+]
+
+sam_bottom_menu = true

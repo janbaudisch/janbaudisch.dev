@@ -1,0 +1,11 @@
+This project has two different licenses for two different parts:
+
+The code and all configuration is subject to the AGPL-3.0 license, found under
+LICENSE-AGPL.
+
+The content is subject to the CC-BY-SA-4.0 license, found under
+LICENSE-CC-BY-SA.
+
+Content in this case describes any media and written text, with the exception
+of media and text from the theme, which is located under themes/hallo and
+subject to its own license.

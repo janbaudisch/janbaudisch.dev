@@ -1,0 +1,19 @@
+language: generic
+
+install:
+  - .travis/install-zola.sh
+
+script:
+  - zola build
+
+deploy:
+  provider: pages
+  repo: flyingP0tat0/flyingp0tat0.github.io
+  target-branch: master
+  local-dir: public
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  name: flyingB0tat0
+  email: bot@baudisch.xyz
+  keep-history: false
+  allow-empty-commit: true
