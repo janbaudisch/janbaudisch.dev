@@ -7,6 +7,8 @@ highlight_code = true
 
 build_search_index = false
 
+generate_rss = true
+
 taxonomies = [
     {name = "tags", rss = true}
 ]
