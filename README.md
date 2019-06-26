@@ -14,7 +14,7 @@ zola build
 
 The generated site will be under `public`.
 
-[build-img]: https://travis-ci.com/flyingP0tat0/web.svg?branch=master
-[build-url]: https://travis-ci.com/flyingP0tat0/web
-[site]: https://flyingp0tat0.xyz
+[build-img]: https://travis-ci.com/janbaudisch/web.svg?branch=master
+[build-url]: https://travis-ci.com/janbaudisch/web
+[site]: https://janbaudisch.dev
 [zola]: https://getzola.org
