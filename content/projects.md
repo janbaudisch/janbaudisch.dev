@@ -33,6 +33,6 @@ It takes one number as an input and outputs the English words for that number.
 
 
 [redux-rs]: https://github.com/redux-rs/redux-rs
-[heron]: https://github.com/flyingP0tat0/heron
-[euler]: https://github.com/flyingP0tat0/euler
-[human]: https://github.com/flyingP0tat0/human
+[heron]: https://github.com/janbaudisch/heron
+[euler]: https://github.com/janbaudisch/euler
+[human]: https://github.com/janbaudisch/human
