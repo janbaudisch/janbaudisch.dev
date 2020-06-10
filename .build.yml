@@ -1,0 +1,17 @@
+image: archlinux
+packages:
+  - curl
+  - rsync
+sources:
+  - https://git.sr.ht/~janbaudisch/janbaudisch.dev
+secrets:
+  - d2be8e67-9e75-4024-8229-0afcffd1a161
+tasks:
+  - setup: |
+      curl -s https://paste.sr.ht/blob/a02ce97b659679a67e50c22da007e69ba26c3b13 | sh
+  - build: |
+      cd janbaudisch.dev
+      zola build
+  - deploy: |
+      cd janbaudisch.dev
+      ~/rsync public/ janbaudisch.dev

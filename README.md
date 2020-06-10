@@ -1,8 +1,8 @@
 [![Build Status][build-img]][build-url]
 
-# web
+# janbaudisch.dev
 
-> Source for my [website][site].
+> My [development website][site].
 
 ## Build
 
@@ -14,7 +14,7 @@ zola build
 
 The generated site will be under `public`.
 
-[build-img]: https://travis-ci.com/janbaudisch/web.svg?branch=master
-[build-url]: https://travis-ci.com/janbaudisch/web
+[build-img]: https://builds.sr.ht/~janbaudisch/janbaudisch.dev.svg
+[build-url]: https://builds.sr.ht/~janbaudisch/janbaudisch.dev
 [site]: https://janbaudisch.dev
 [zola]: https://getzola.org
