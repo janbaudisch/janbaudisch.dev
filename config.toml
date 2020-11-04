@@ -22,6 +22,7 @@ sam_menu = [
     { text = "posts", link = "/posts" },
     { text = "whoami", link = "/about" },
     { text = "projects", link = "/projects" },
+    { text = "sourcehut", link = "https://git.sr.ht/~janbaudisch" },
     { text = "github", link = "https://github.com/janbaudisch" },
     { text = "contact", link = "/contact" }
 ]
